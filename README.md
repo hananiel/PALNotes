@@ -23,3 +23,8 @@ https://github.com/cloudfoundry/java-buildpack#configuration-and-extension
 ## Notable plugins
 
 * cflocal https://github.com/sclevine/cflocal
+
+## Versioning Microservices
+* http://www.appcontinuum.io/#v7-tag-versioning
+
+
