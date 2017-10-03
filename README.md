@@ -18,3 +18,8 @@ Noteworthy Links for Springboot / Cloud Foundry development
 
 ## CloudFoundry Buildpacks
 https://github.com/cloudfoundry/java-buildpack#configuration-and-extension
+
+
+## Notable plugins
+
+* cflocal https://github.com/sclevine/cflocal
