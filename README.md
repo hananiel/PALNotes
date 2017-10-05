@@ -27,4 +27,8 @@ https://github.com/cloudfoundry/java-buildpack#configuration-and-extension
 ## Versioning Microservices
 * http://www.appcontinuum.io/#v7-tag-versioning
 
-
+## TODO 
+    * Set up Oauth provider  and client in java 
+    * Set up Clients for each of the grant types
+    
+    
